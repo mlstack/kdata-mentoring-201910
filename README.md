@@ -57,3 +57,9 @@
 - 원인의 제시 보다 예측을 더 중시한다면 Random Forest, SVM, Deep Learning으로 접근한다
 
 ## 멘토와의 시간외 소통
+- 주저말고 연락하시길 ^^
+  - 멘토가 연락이 온시점에 강사가 Business-Off일 때 - 즉답 Q&A
+  - 멘토가 연락이 온시점에 강사가 Business-On인 경우 - 시간 협의
+- 짧은 Q&A는 Online - Anytime SNS(카톡, 밴드)
+- 심도있는 미팅이 필요한 경우 Conference Call(카톡 등)
+  - 밤 늦게도 상관없슴 ^^
